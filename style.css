@@ -264,7 +264,7 @@ img { max-width: 100%; display: block; }
 #right-name {
   margin: 0;
   font-family: "Great Vibes", cursive; /* thư pháp mềm mại */
-  font-size: 40px;
+  font-size: 25px;
   color: #b98b3e; /* vàng đồng sang trọng */
   letter-spacing: 1px;
   text-shadow: 0 2px 10px rgba(0,0,0,0.15);
